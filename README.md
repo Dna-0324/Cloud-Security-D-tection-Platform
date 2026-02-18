@@ -38,3 +38,15 @@ Hands-on AWS Cloud Security Detection Lab focused on:
 
 
 
+\## Phase 2 - Web Server Setup
+
+
+
+\- Apache (httpd) installed
+
+\- Web traffic logs available in /var/log/httpd
+
+\- Ready for attack simulation
+
+
+
